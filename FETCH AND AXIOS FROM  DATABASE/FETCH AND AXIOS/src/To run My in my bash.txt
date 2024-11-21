@@ -1,0 +1,3 @@
+npx create-react-app user-fetcher
+cd user-fetcher
+npm install axios
